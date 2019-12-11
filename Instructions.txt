@@ -1,5 +1,13 @@
 
+Ok
+
+<<<<<<< HEAD
+
 Here are the instructions for making the guacc
 Here are additional instructions
 
 
+=======
+hej
+but make sure you add last
+>>>>>>> 959793d9480b3074fd69c75a83ff66a2f7b6a87a
